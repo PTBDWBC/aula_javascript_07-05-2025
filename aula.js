@@ -12,5 +12,6 @@ Javascript
 - document: métodos para manipular objetos
 - innerHTML é um atributo do parágrafo
 - onclick -> com o clique, pode direcionar para uma função
+- alert segura o carregamento da página
 - 
 */
